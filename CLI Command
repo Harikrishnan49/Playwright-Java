@@ -1,0 +1,2 @@
+mvn exec:java -e -D exec.mainClass=com.microsoft.playwright.CLI -D exec.args="codegen https://testautomationpractice.blogspot.com/"
+This command will help you to generate automation code only by exploring website manually
